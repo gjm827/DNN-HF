@@ -15,7 +15,7 @@ Path: \DNN-HF\Recall\RecommendationBasedonEUIT
 
 #### 1.2 Microblog recommendation based on user interest topics (UT)
 Path: \DNN-HF\Recall
-* recommendation_based_on_UT.py: compute topic weight by TF-IDF, and then conduct recommendation based on user interest topics, generating the set B of candidate recommended microblogs.
+* recommendation_based_on_UT.py: compute topic weights by TF-IDF, and then conduct recommendation based on user interest topics, generating the set B of candidate recommended microblogs.
 
 #### 1.3  Microblog recommendation using user-based collaborative filtering (CF)
 Path: \DNN-HF\Recall
@@ -41,7 +41,7 @@ Path: \Baselines\TTI
 
 Path: \Baselines\TC
 
-* user_tag_retrieval.py: compute keywords' weight by TF-IDF and TF-Clarity, and generate user tags.
+* user_tag_retrieval.py: compute keywords' weights by TF-IDF and TF-Clarity, and generate user tags.
 
 * multi-tags_correlation.py: calculate multi-tags inner correlation and outer correlation.
 
@@ -53,7 +53,7 @@ Path: \Baselines\TC
 
 Path: \Baselines\ITCAUSR
 
-* user_tag_retrieval.py: compute keywords' weight by TF-IDF and TF-Clarity, and generate user tags.
+* user_tag_retrieval.py: compute keywords' weights by TF-IDF and TF-Clarity, and generate user tags.
 
 * multi-tags_correlation.py: calcuate multi-tags inner correlation and outer correlation.
 
