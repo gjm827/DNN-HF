@@ -43,7 +43,7 @@ Path: \Baselines\TC
 
 * user_tag_retrieval.py: compute keywords' weight by TF-IDF and TF-Clarity, and generate user tags.
 
-* multi-tags_correlation.py：calculate multi-tags inner correlation and outer correlation.
+* multi-tags_correlation.py: calculate multi-tags inner correlation and outer correlation.
 
 * update_user-tag_matrix.py: update the user-tag matrix by tag inner and outer correlation.
 
@@ -55,7 +55,7 @@ Path: \Baselines\ITCAUSR
 
 * user_tag_retrieval.py: compute keywords' weight by TF-IDF and TF-Clarity, and generate user tags.
 
-* multi-tags_correlation.py：calcuate multi-tags inner correlation and outer correlation.
+* multi-tags_correlation.py: calcuate multi-tags inner correlation and outer correlation.
 
 * update_user-tag_matrix.py: update the user-tag matrix by tag inner and outer correlation.
 
