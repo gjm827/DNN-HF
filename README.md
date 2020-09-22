@@ -66,6 +66,7 @@ Path: \Baselines\ITCAUSR
 * recommend_based_on_ITCAUSR.py: calculate the similarity between microblogs and users, and generate recommended microblogs.
 
 ##References
+
 [1] Tu, S., and Huang, M. (2016). Mining microblog user interests based on textrank with tf-idf factor. The Journal of China Universities of Posts and Telecommunications, 23(5):40–46.
 
 [2] Ma, H., Jia, M., Xie, M., and Lin, X. (2015). A microblog recommendation algorithm based on multi-tag correlation. In International Conference on Knowledge Science, Engineering and Management, pages 483–488. Springer.
